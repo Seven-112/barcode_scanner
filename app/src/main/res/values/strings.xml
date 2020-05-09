@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">markette</string>
+
+    <string name="title_filter">Filtrele</string>
+    <string name="title_favourite">Favoriler</string>
+    <string name="title_home">Anasayfa</string>
+    <string name="title_list">Listem</string>
+    <string name="title_profile">Profilim</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="email">Email</string>
+    <string name="login">Log In</string>
+    <string name="logging_in">Logging In</string>
+    <string name="signup">Sign Up</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="password">Password</string>
+    <string name="username">User Name</string>
+    <string name="repassword">Confirm Password</string>
+
+    <string name="click_scan">Tıkla Tarat</string>
+
+
+    <string name="need_new_account">Need New Account?</string>
+    <string name="already_have_account">already have account?</string>
+
+    <string name="press_back_again_to_exit">Press Back again to Exit.</string>
+
+    <string name="search">Search</string>
+    <string name="scan">Scan</string>
+
+    <string name="slide_1_title">First</string>
+    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+
+    <string name="slide_2_title">Second</string>
+    <string name="slide_2_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+
+    <string name="slide_3_title">Third</string>
+    <string name="slide_3_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string-array name="gender_type">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
